@@ -1,4 +1,4 @@
-# altviewer
+# altview
 visualize gcode with python
 ## Usage
-`./altprint.py yourfile.gcode`
+`./altviewer.py yourfile.gcode`

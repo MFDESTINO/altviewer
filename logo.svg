@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800px"
+   height="600px"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview47045"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.61112514"
+     inkscape:cx="396.80907"
+     inkscape:cy="299.44767"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs47040" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11413"
+       transform="matrix(12.678898,0,0,12.678898,-872.87159,-1106.6106)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="76.014503"
+         y="115.5804"
+         id="text5900"><tspan
+           sodipodi:role="line"
+           id="tspan5898"
+           style="stroke-width:0.264583"
+           x="76.014503"
+           y="115.5804">altviewer</tspan></text>
+      <g
+         style="clip-rule:evenodd;fill-rule:evenodd"
+         id="g11407"
+         transform="matrix(0.34763551,0,0,0.34763551,118.59185,105.37313)">
+        <path
+           d="M 12,0 C 18.623,0 24,5.377 24,12 24,18.623 18.623,24 12,24 5.377,24 0,18.623 0,12 0,5.377 5.377,0 12,0 Z M 4.637,18.764 C 6.465,20.753 9.088,22 12,22 h 0.004 L 7.386,14.002 Z M 20.66,17 h -9.233 l 2.749,4.762 C 16.943,21.147 19.28,19.384 20.66,17 Z M 2.459,9 C 2.161,9.947 2,10.955 2,12 c 0,1.823 0.489,3.533 1.343,5.005 L 6.232,12.002 6.231,12 6.234,11.998 7.965,9 Z M 20.662,7.003 16.045,15 h 5.496 C 21.839,14.053 22,13.045 22,12 22,10.18 21.513,8.474 20.662,7.003 Z M 13.735,9 H 10.274 L 8.541,12.002 10.272,15 h 3.464 l 1.731,-2.999 z m 2.887,1.001 2.747,-4.758 C 17.541,3.251 14.917,2.001 12.003,2 Z M 9.83,2.237 C 7.061,2.85 4.721,4.614 3.34,7 h 9.24 z"
+           id="path11398" />
+      </g>
+    </g>
+  </g>
+</svg>

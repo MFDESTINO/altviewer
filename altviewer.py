@@ -6,10 +6,23 @@ from matplotlib.widgets import Button
 from shapely.geometry import LineString
 from shapely.ops import linemerge
 import re
-import sys
+import sys, os
 
-gcode_file = sys.argv[1]
+files = os.listdir()
+options = []
+for f in files:
+    if f.endswith(".gcode"):
+        options.append(f)
 
+gcode_file = ''
+while not gcode_file:
+    for i, option in enumerate(options):
+        print("{} - {}".format(i, option))
+    selected = input("select one file: ")
+    try:
+        gcode_file = options[int(selected)]
+    except:
+        print("please input a number.")
 
 
 layers, layers_props = get_layers_from_gcode(gcode_file)
